@@ -3,7 +3,7 @@ export const data = {
         L: {
             id: 1,
             name: 'EDY SAHPUTRA',
-            child: 'Putra ke Satu',
+            child: 'Putra Pertama',
             father: 'Amin',
             mother: 'Ayung',
             image: './src/assets/images/cowo.jpg'
@@ -11,7 +11,7 @@ export const data = {
         P: {
             id: 2,
             name: 'Cindy',
-            child: 'Putri ke Satu',
+            child: 'Putri Pertama',
             father: 'Tjin Khiang',
             mother: 'Ai Peng',
             image: './src/assets/images/cewe.jpg'
