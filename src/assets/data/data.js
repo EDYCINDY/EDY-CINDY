@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'EDY SAHPUTRA',
+            child: 'Putra ke Satu',
+            father: 'Amin',
+            mother: 'Sudarsih',
             image: './src/assets/images/cowo.jpg'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Cindy',
+            child: 'Putri ke Satu',
+            father: 'Tjin Khiang',
+            mother: 'Ai Peng',
             image: './src/assets/images/cewe.jpg'
         },
 
@@ -22,8 +22,8 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2024',
-            month: 'November',
+            year: '2025',
+            month: 'Mei',
             date: '14',
             day: 'Kamis',
             hours: {
@@ -32,8 +32,8 @@ export const data = {
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
+            year: '2025',
+            month: 'Mei',
             date: '14',
             day: 'Kamis',
             hours: {
@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Edy sahputra',
             icon: './src/assets/images/bca.png',
             rekening: '12345678'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Edy sahputra',
             icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
