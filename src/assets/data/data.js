@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'EDY SAHPUTRA',
+            name: 'Edy',
             child: 'Putra Pertama',
             father: 'Amin',
             mother: 'Ayung',
@@ -24,7 +24,7 @@ export const data = {
         marriage: {
             year: '2025',
             month: 'Mei',
-            date: '12',
+            date: '13',
             day: 'Kamis',
             hours: {
                 start: '08.00',
