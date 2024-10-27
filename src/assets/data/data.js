@@ -5,7 +5,7 @@ export const data = {
             name: 'EDY SAHPUTRA',
             child: 'Putra ke Satu',
             father: 'Amin',
-            mother: 'Sudarsih',
+            mother: 'Ayung',
             image: './src/assets/images/cowo.jpg'
         },
         P: {
