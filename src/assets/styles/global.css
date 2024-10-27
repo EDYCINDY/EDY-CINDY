@@ -31,6 +31,9 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     color: var(--primary-font-color);
     overflow-y: hidden;
+    background-image: url('https://i.pinimg.com/736x/26/ea/f3/26eaf3453dd7f6ab44d32adfac31f8bc.jpg');
+    background-position: center;
+    background-size: cover;
 }
 
 body.active {
@@ -39,9 +42,6 @@ body.active {
 
 body::-webkit-scrollbar {
     display: none;
-    background-image: url('https://i.pinimg.com/736x/26/ea/f3/26eaf3453dd7f6ab44d32adfac31f8bc.jpg');
-    background-position: center;
-    background-size: cover;
 }
 
 p {
