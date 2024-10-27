@@ -24,7 +24,7 @@ export const data = {
         marriage: {
             year: '2025',
             month: 'Mei',
-            date: '14',
+            date: '12',
             day: 'Kamis',
             hours: {
                 start: '08.00',
@@ -34,14 +34,14 @@ export const data = {
         reception: {
             year: '2025',
             month: 'Mei',
-            date: '14',
+            date: '13',
             day: 'Kamis',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Tebing syahbandar, jalan besar pagurawan, Desa Penggalangan dsn II, Kota Tebing Tinggi'
     },
 
     link: {
@@ -52,24 +52,57 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.png'
+            image: './src/assets/images/2.JPG'
         },
         {
             id: 2,
-            image: './src/assets/images/2.png'
+            image: './src/assets/images/3.JPG'
         },
         {
             id: 3,
-            image: './src/assets/images/3.png'
+            image: './src/assets/images/4.JPG'
         },
         {
             id: 4,
-            image: './src/assets/images/4.png'
+            image: './src/assets/images/5.JPG'
         },
         {
             id: 5,
-            image: './src/assets/images/5.png'
-        }
+            image: './src/assets/images/7.jpg'
+        },
+        {
+            id: 6,
+            image: './src/assets/images/8.JPG'
+        },
+        {
+            id: 7,
+            image: './src/assets/images/9.JPG'
+        },
+        {
+            id: 8,
+            image: './src/assets/images/10.JPG'
+        },
+        {
+            id: 9,
+            image: './src/assets/images/11.JPG'
+        },
+        {
+            id: 10,
+            image: './src/assets/images/12.jpg'
+        },
+        {
+            id: 11,
+            image: './src/assets/images/18.jpg'
+        },
+        {
+            id: 12,
+            image: './src/assets/images/18.jpg'
+        },
+        {
+            id: 13,
+            image: './src/assets/images/19.jpg'
+        }     
+       
     ],
 
     bank: [
