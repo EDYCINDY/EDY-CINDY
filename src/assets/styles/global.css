@@ -39,6 +39,9 @@ body.active {
 
 body::-webkit-scrollbar {
     display: none;
+    background-image: url('')
+    background-position: center;
+    background-size: 100%;
 }
 
 p {
