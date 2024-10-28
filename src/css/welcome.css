@@ -17,9 +17,9 @@
     transition: all 2s ease-in;
     opacity: 0;
     transform: translateY(-100%);
-     background-image: url('https://image.similarpng.com/very-thumbnail/2020/07/Wedding-rings-on-transparent-background-PNG.png');
+    background-image: url('./src/assets/images/rings.png');
     background-position: center;
-    background-size: 100%;
+    background-size: cover;
 }
 
 .welcome.active {
