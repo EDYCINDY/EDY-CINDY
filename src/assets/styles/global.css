@@ -33,9 +33,8 @@ body {
     color: var(--primary-font-color);
     overflow-y: hidden;
     font-weight: bold;
-    background-image: url('https://edycindy.github.io/Wedding/src/assets/images/backg.jpg');
+    background-image: url('https://edycindy.github.io/Wedding/src/assets/images/Cherry.jpg');
     background-position: center;
-    background-size: 100%;
 }
 
 body.active {
