@@ -45,7 +45,9 @@ body::-webkit-scrollbar {
 }
 
 p {
-    line-height: 1.7rem;
+    line-height: 1.9rem;
+    color: rgb(5, 22, 255);
+    font-weight: bold;
 }
 
 .audio button {
