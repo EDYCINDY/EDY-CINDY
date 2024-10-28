@@ -20,7 +20,6 @@
     transform: translateY(-100%);
     background-image: url('https://edycindy.github.io/Wedding/src/assets/images/rings.png');
     background-position: center;
-    background-size: cover;
      text-shadow: 
                 2px 2px 4px rgb(255, 238, 0),   /* Bayangan utama */
                 -2px -2px 4px rgb(255, 0, 0); /* Bayangan putih tipis */
