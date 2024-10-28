@@ -17,7 +17,7 @@
     transition: all 2s ease-in;
     opacity: 0;
     transform: translateY(-100%);
-    background-image: url('./src/assets/images/rings.png');
+    background-image: url('https://edycindy.github.io/Wedding/src/assets/images/rings.png');
     background-position: center;
     background-size: cover;
 }
