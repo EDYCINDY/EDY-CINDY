@@ -13,7 +13,8 @@
     right: 0;
     bottom: 0;
     z-index: 99;
-    color: #fff;
+    color: #050505;
+    font-weight: bold;
     transition: all 2s ease-in;
     opacity: 0;
     transform: translateY(-100%);
@@ -82,7 +83,7 @@
 }
 
 .welcome button:hover {
-    color: #fff;
+    color: hsl(0, 82%, 67%);
     background-color: #000;
 }
 
