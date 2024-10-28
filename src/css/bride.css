@@ -61,10 +61,11 @@
 
 .bride i, .hadist i, .time a + p + i, .galeri > i {
     font-size: 3rem;
-    color: #908d8d;
+    color: rgb(3, 49, 253);
     position: absolute;
     z-index: 10;
     animation: upAndDown 3s infinite;
+    font-weight: bold;
 }
 
 .bride i:nth-of-type(1) {
