@@ -33,7 +33,7 @@ body {
     color: var(--primary-font-color);
     overflow-y: hidden;
     font-weight: bold;
-    background-image: url('https://edycindy.github.io/Wedding/src/assets/images/backg.JPG');
+    background-image: url('https://edycindy.github.io/Wedding/src/assets/images/backg.jpg');
     background-position: center;
     background-size: cover;
 }
